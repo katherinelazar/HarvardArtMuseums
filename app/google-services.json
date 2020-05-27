@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "796904847146",
+    "firebase_url": "https://artgallery2-1ac6d.firebaseio.com",
+    "project_id": "artgallery2-1ac6d",
+    "storage_bucket": "artgallery2-1ac6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796904847146:android:85e681b4879b70c02fd053",
+        "android_client_info": {
+          "package_name": "hu.bme.aut.bottomnavfragmentsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796904847146-3f1u8ubf0ks307cnd83hgq72o1vqhe3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.bme.aut.bottomnavfragmentsdemo",
+            "certificate_hash": "9f2bc2d7358e8f60e61825b8049bf8471df3fcf0"
+          }
+        },
+        {
+          "client_id": "796904847146-d66d6u33icnu1mqaps97tjpfht67h1od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-DGoloYYwkpmAIt8faz9vn910yydI_AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796904847146-d66d6u33icnu1mqaps97tjpfht67h1od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

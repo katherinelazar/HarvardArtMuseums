@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BottomNavFragmentsDemo</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_friends">Friends</string>
+    <string name="RESOURCE_TYPE">object</string>
+    <string name="base_url">https://api.harvardartmuseums.org/</string>
+    <string name="harvard_art_museums_api_key">7822fc70-8d6a-11ea-bfab-8bccea6df484</string>
+    <string name="resource_type">object</string>
+    <string name="default_image_url">https://ids.lib.harvard.edu/ids/iiif/18483392/full/full/0/default.jpg</string>
+    <string name="app_title">Art Museum</string>
+
+</resources>
